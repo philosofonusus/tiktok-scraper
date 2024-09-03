@@ -1,6 +1,6 @@
 {
   "name": "tiktok-scraper-ts-updated",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "A scraper for tiktok videos, users and more",
   "main": "dist/main.js",
   "scripts": {
