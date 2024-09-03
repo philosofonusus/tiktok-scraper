@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naseif/tiktok-scraper.git"
+    "url": "git+https://github.com/philosofonusus/tiktok-scraper.git"
   },
   "author": "naseif",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/naseif/tiktok-scraper/issues"
+    "url": "https://github.com/philosofonusus/tiktok-scraper/issues"
   },
   "keywords": [
     "tiktok-videos-downloader",
@@ -25,13 +25,13 @@
     "tiktok-api",
     "tiktok-videos-scraper"
   ],
-  "homepage": "https://github.com/naseif/tiktok-scraper#readme",
+  "homepage": "https://github.com/philosofonusus/tiktok-scraper#readme",
   "devDependencies": {
     "@types/node": "^17.0.45",
-    "@types/node-fetch": "^2.6.11",
-    "tsup": "^5.12.9",
-    "typedoc": "^0.22.18",
-    "typescript": "^4.9.5"
+    "@types/node-fetch": "^2.6.1",
+    "tsup": "^5.12.0",
+    "typedoc": "^0.22.12",
+    "typescript": "^4.5.5"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
