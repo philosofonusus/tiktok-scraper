@@ -1,6 +1,6 @@
 {
   "name": "tiktok-scraper-ts-updated",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "A scraper for tiktok videos, users and more",
   "main": "dist/main.js",
   "scripts": {
@@ -39,6 +39,6 @@
     "netscape-cookies-parser": "^1.0.2",
     "node-fetch": "^2.6.7",
     "puppeteer": "^22.11.2",
-    "tiktok-signature": "^1.7.3"
+    "tiktok-signature": "^1.9.2"
   }
 }
